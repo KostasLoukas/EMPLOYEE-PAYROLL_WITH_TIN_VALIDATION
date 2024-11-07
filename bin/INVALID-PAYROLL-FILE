@@ -1,0 +1,7 @@
+EMPLOYEE NAME         HOURS WORKED  HOUR RATE     AFM     AFM STATUS  AFM STATUS CAUSE                        
+==============================================================================================================
+EMPLOYEE 1                     150      12,34  090252640  INVALID     ***AFM CALCULATIONS LEAD TO  CHECK-DIGIT
+EMPLOYEE 10                    110      12,34  996839180  INVALID     ***AFM CALCULATIONS LEAD TO  CHECK-DIGIT
+EMPLOYEE 15                     90      12,34  000000000  INVALID     ***ZERO AFM IS NOT SUPPORTED OR VALID!!!
+EMPLOYEE 20                     70      12,34  09972976A  INVALID     ***NO CHARS ALLOWED!!!                  
+EMPLOYEE 30                     30      12,34  090&89 90  INVALID     ***NO CHARS AND SPACES ALLOWED!!!       
