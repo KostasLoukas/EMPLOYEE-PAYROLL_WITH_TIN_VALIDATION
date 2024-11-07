@@ -1,5 +1,5 @@
 # Employee Payroll Program with TIN Validation
-This program is used as a tool to calculate and produce information about the employees' respective salary (gross and net) as well as the taxes that are applied to the person.
+This program is used as a tool to calculate and produce information about the employees' respective salary (gross and net) as well as the taxes that are applied to each person.
 
 The input is the PAYROLL-FILE which's records consist of: The employee's name (EMPLOYEE 1, EMPLOYEE 2 ETC.), their Final Work Hours (first three digits), their Hour Pay Rate
 (next 4 digits, two of which are for decimal) and their TIN (remaining 9 digits).
